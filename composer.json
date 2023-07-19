@@ -1,0 +1,15 @@
+{
+    "name": "asha23/gravity-postmark",
+    "autoload": {
+        "psr-4": {
+            "AshWhiting\\Gravityformspostmark\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Ash Whiting",
+            "email": "ash_whiting@hotmail.com"
+        }
+    ],
+    "require": {}
+}
